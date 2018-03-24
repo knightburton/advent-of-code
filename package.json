@@ -1,0 +1,21 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Solution of advent of code puzzles in javascript.",
+  "main": "2017/runner.js",
+  "scripts": {
+    "start:2017": "babel-node 2017/runner.js"
+  },
+  "author": "Imre Kiss",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knightburton/advent-of-code.git"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "commander": "^2.15.1"
+  }
+}
