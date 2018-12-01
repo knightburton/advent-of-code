@@ -4,7 +4,8 @@
   "description": "Solution of advent of code puzzles in javascript.",
   "main": "2017/runner.js",
   "scripts": {
-    "start:2017": "babel-node 2017/runner.js"
+    "start:2017": "babel-node 2017/runner.js",
+    "start:2018": "babel-node 2018/runner.js"
   },
   "author": "Imre Kiss",
   "license": "ISC",
