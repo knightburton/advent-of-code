@@ -57,4 +57,4 @@ In this example, the areas of coordinates A, B, C, and F are infinite - while no
 
 **What is the size of the largest area** that isn't infinite?
 
-- https://adventofcode.com/2018/day/6
+[https://adventofcode.com/2018/day/6](https://adventofcode.com/2018/day/6)

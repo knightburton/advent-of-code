@@ -44,4 +44,4 @@ Here are other examples:
 
 **What is the first frequency your device reaches twice?**
 
-- https://adventofcode.com/2018/day/1
+[https://adventofcode.com/2018/day/1](https://adventofcode.com/2018/day/1)

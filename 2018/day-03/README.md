@@ -58,4 +58,4 @@ For example, in the claims above, only claim `3` is intact after all claims are 
 
 **What is the ID of the only claim that doesn't overlap?**
 
-- https://adventofcode.com/2018/day/3
+[https://adventofcode.com/2018/day/3](https://adventofcode.com/2018/day/3)
